@@ -82,9 +82,6 @@ document.getElementById("search").addEventListener("click", function () {
             searching.value = "";
             return;
         }
-        // else {
-        //     alert("Not Match")
-        // }
     }
     alert("not match");
     searching.value = "";
